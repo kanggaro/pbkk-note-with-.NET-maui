@@ -2,6 +2,6 @@
 
 Screenshot note project
 
-![image](https://user-images.githubusercontent.com/90663373/219037083-cb15611e-c1d7-4e9c-aaa5-d22f4a489fab.png)
+![image](https://user-images.githubusercontent.com/90663373/219037395-71f4ff59-ceb1-4d04-9878-fc382bfb7306.png)
 
 Analisa note project
